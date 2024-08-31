@@ -1,2 +1,2 @@
-This is the description of my repocls
+This is the description of my repo
 
